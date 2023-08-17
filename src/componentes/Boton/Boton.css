@@ -1,0 +1,14 @@
+.boton{
+    color: white;
+    border-radius: 5px;
+    width: 180.13px;
+    height: 54px;
+    margin-left: -60px;
+    font: 'Source Sans Pro';
+    font-weight: 600;
+    size: 21px;
+    line-height: 24px;
+    align-items: center;
+    background-color: #000000;
+    border-color: #FFFFFF;
+}
