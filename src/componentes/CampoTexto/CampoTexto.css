@@ -1,0 +1,12 @@
+.campoTexto{
+    width: 900px;
+    height: 87px;
+    margin-top: 30px;
+}
+
+.campoTexto input{
+    color: white;
+    background-color: #53585D;
+    height: 50px;
+    width: 890px;
+}

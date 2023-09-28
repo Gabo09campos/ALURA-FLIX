@@ -1,0 +1,16 @@
+.equipo{
+    width: 100%;
+    background: #00C86F;
+    padding: 32px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 32px;
+}
+
+.equipo h3{
+    font-weight: 400;
+    color: #FFFFFF;
+    border-bottom: 4px solid #eb08b2;
+    display: inline-block;
+    padding-bottom: 8px;
+}
